@@ -12,10 +12,15 @@ State-of-the-Art Language Modeling and Text Classification in Hindi Language
 
 ### TODO
 - [x] Language modeling based on wikipedia dump
-- [x] Release Language Models: [Hindi Language Model](https://www.dropbox.com/s/4xef1wcaoon1wd4/hindi2vec-models.7z?dl=0)**
-- [ ] Create text classification data
+- [x] Release Language Models: [Hindi Language Model](https://www.dropbox.com/s/4xef1wcaoon1wd4/hindi2vec-models.7z?dl=0)
+- [ ] Create Text classification Datasets
 - [ ] Benchmark text classification with FastText
 - [ ] Fine-tuning model for text classification
 - [ ] Add a leaderboard and allow submission, similar to SQuAD
+
+#### Idea Dump
+- [ ] Change the custom head to be used for transliteration instead of classification, Hindi script (Devnagri) to English script (Roman)
+- [ ] MTL tasks for training and inference using custom heads
+- [ ] Text to Speech - using datasets from news recordings or Hindi subtitles of dubbed movies
 
 **Special thanks to Jeremy, Rachel and other contributors to [fastai](https://github.com/fastai/fastai)**. This work is a reproduction of their work in English to Hindi. Thanks to @cstorm125 for [thai2vec](https://github.com/cstorm125/thai2vec) which inspired this work.
