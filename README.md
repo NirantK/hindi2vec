@@ -6,8 +6,8 @@ We achieved State of the Art Perplexity = 46.81 for Hindi compared to 40.68 for 
   - To the best of my knowledge on September 18, 2018
 
 ## Downloads
-- **[Pretrained Language Models]**(https://www.dropbox.com/s/4xef1wcaoon1wd4/hindi2vec-models.7z?dl=0) that you can use in your classification for transfer learning
-- *EXCLUSIVE: [BBC Hindi]*(https://github.com/NirantK/hindi2vec/releases/download/bbc-hindi-v0.1/bbc-hindiv01.tar.gz) data of 4335 documents for text classification and text summarization. [Release Notes](https://github.com/NirantK/hindi2vec/releases/tag/bbc-hindi-v0.1)
+- [**Pretrained Language Models**](https://www.dropbox.com/s/4xef1wcaoon1wd4/hindi2vec-models.7z?dl=0) that you can use in your classification for transfer learning
+- EXCLUSIVE: [*BBC Hindi*](https://github.com/NirantK/hindi2vec/releases/download/bbc-hindi-v0.1/bbc-hindiv01.tar.gz) data of 4335 documents for text classification and text summarization. [Release Notes](https://github.com/NirantK/hindi2vec/releases/tag/bbc-hindi-v0.1)
 - Raw Data for Language Model shared above: [Hindi Wikipedia](https://dumps.wikimedia.org/hiwiki/latest/hiwiki-latest-pages-articles.xml.bz2) with about 21k unique tokens for minfreq = 50
     - [Wikipedia Processed Data](https://www.dropbox.com/s/p8bx1k3rn0b964r/hindi-wiki-data.7z?dl=0) - please use this to train your model
 
