@@ -1,5 +1,9 @@
 # hindi2vec
 State-of-the-Art Language Modeling and Text Classification in Hindi Language
+---
+
+![](/assets/images/logo.png)
+
 
 ## Results
 We achieved State of the Art Perplexity = 46.81 for Hindi compared to 40.68 for English (lower is better)
@@ -17,8 +21,6 @@ We achieved State of the Art Perplexity = 46.81 for Hindi compared to 40.68 for 
 - [x] Release Language Models: [Hindi Language Model](https://www.dropbox.com/s/4xef1wcaoon1wd4/hindi2vec-models.7z?dl=0)
 - [x] Create Text classification Datasets:  [BBC Hindi](https://github.com/NirantK/hindi2vec/releases/download/bbc-hindi-v0.1/bbc-hindiv01.tar.gz)
 - [ ] Benchmark text classification with FastText
-- [ ] Fine-tuning model for text classification
-- [ ] Add a leaderboard and allow submission, similar to SQuAD
 
 #### Idea Dump
 - [ ] Change the custom head to be used for transliteration instead of classification, Hindi script (Devnagri) to English script (Roman)
