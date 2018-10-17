@@ -27,4 +27,9 @@ We achieved State of the Art Perplexity = 46.81 for Hindi compared to 40.68 for 
 - [ ] MTL tasks for training and inference using custom heads
 - [ ] Text to Speech - using datasets from news recordings or Hindi subtitles of dubbed movies
 
+#### FastAI Installation
+
+This version of the notebook uses fastai lib's v0.7, used in their Part 2 v2 course in Summer 2018. The best way to [install it via conda as mentioned here](http://forums.fast.ai/t/fastai-v0-7-install-issues-thread/24652)
+
 **Special thanks to Jeremy, Rachel and other contributors to [fastai](https://github.com/fastai/fastai)**. This work is a reproduction of their work in English to Hindi. Thanks to @cstorm125 for [thai2vec](https://github.com/cstorm125/thai2vec) which inspired this work.
+
